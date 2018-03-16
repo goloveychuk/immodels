@@ -1,0 +1,28 @@
+{
+  "name": "immodels",
+  "version": "0.1.0",
+  "description": "immutable data for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goloveychuk/immodels.git"
+  },
+  "keywords": [
+    "typescript",
+    "immutable",
+    "models"
+  ],
+  "author": "goloveychuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goloveychuk/immodels/issues"
+  },
+  "homepage": "https://github.com/goloveychuk/immodels#readme",
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "tsruntime": "^2.1.2"
+  }
+}
